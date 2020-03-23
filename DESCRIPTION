@@ -1,0 +1,25 @@
+Package: covid19
+Title: Download COVID19 Data From The Johns Hopkins COVID19 Dashboard
+Version: 0.1.0
+Authors@R: 
+    person(given = "Usman",
+           family = "Khaliq",
+           role = c("aut", "cre"),
+           email = "usman.khaliq91@gmail.com")
+Description: The package provides a day-by-day breakdown of the total number of 
+             confirmed, recovered and dead COVID19 cases in each country. 
+             Whereever available, the data also includes these figures divided 
+             by province/state in specific countries. The source of the data is 
+             Johns Hopkins University Centre for Systems Science and Engineering
+             (JHU CCSE) Coronavirus.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    magrittr,
+    lubridate,
+    readr,
+    tidyr,
+    dplyr,
+    here
+RoxygenNote: 7.1.0
