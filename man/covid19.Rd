@@ -16,7 +16,7 @@ A tibble with 89127 rows and 7 variables:
   \item{status}{determines whether the cases were for confirmed, recovered, or death}
 }
 
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 89121 rows and 7 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 93186 rows and 7 columns.
 }
 \source{
 \url{https://systems.jhu.edu/research/public-health/ncov/}
