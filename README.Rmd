@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # covid19
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/ottoman91/covid19.svg?branch=master)](https://travis-ci.org/ottoman91/covid19)
 <!-- badges: end -->
 
 The goal of covid19 is to ...
